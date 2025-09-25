@@ -1,1 +1,3 @@
+![logo](.docs/logo.png)
+
 # garlic-7a2fa023aa8ed09bb93ed5337648f2e3046450fc0a06a4b09cb592f894d6d7da
