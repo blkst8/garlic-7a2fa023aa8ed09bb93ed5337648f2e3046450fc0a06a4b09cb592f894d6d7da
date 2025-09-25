@@ -1,9 +1,8 @@
-from multiprocessing.reduction import duplicate
-from typing import List
 import ca0c8b56ecd36327136ee7c527fdbb2 as utils
 
 if __name__ == "__main__":
     standard_list = [
+        "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
         "https://raw.githubusercontent.com/Athar5443/Youtube_BlockAds_List/main/output/hosts.ipv4.txt",
         "https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/ads/FadeMind/UncheckyAds.fork.txt",
         "https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/ads/MajkiIT/SmartTV-ads.fork.txt",
