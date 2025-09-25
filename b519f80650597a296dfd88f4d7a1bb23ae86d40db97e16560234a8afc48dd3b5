@@ -1,0 +1,7 @@
+0.0.0.0 video-s.twimg.com
+0.0.0.0 fuck.it.shit
+0.0.0.0 youtubei.googleapis.com
+0.0.0.0 z-m-gateway.facebook.com
+0.0.0.0 suggestqueries.google.com
+0.0.0.0 pubsub.googleapis.com
+0.0.0.0 ^[A-Za-z]+[0-9]+-+[A-Za-z0-9]+-[A-Za-z]+\d[A-Za-z]+\.googlevideo\.com$

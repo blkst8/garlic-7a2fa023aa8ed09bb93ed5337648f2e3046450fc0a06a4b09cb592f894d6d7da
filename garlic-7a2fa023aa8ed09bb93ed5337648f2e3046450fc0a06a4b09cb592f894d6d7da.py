@@ -50,6 +50,12 @@ if __name__ == "__main__":
 
     blocklist = []
 
+    print("Downloading and Garlic blocklist...")
+    with open("b519f80650597a296dfd88f4d7a1bb23ae86d40db97e16560234a8afc48dd3b5", "r") as f:
+        blocked_ips = f.read().split("\n")
+        blocklist.extend(blocked_ips)
+        print(f"Loaded {len(blocked_ips)} entries, total is now {len(blocklist)}")
+
     print("Downloading standard blocklists...")
     for url in standard_list:
         print(f"Downloading from {url}...")
